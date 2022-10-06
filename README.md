@@ -7,11 +7,11 @@ It's trained on the California housing price dataset.
 Number of Attributes: 8 numeric, predictive attributes and the target
 
     :Attribute Information:
-        - MedInc        median income in block group
-        - HouseAge      median house age in block group
-        - AveRooms      average number of rooms per household
-        - AveBedrms     average number of bedrooms per household
-        - Population    block group population
-        - AveOccup      average number of household members
-        - Latitude      block group latitude
-        - Longitude     block group longitude
+        - MedInc        Median Income in block group
+        - HouseAge      Median House age in block group
+        - AveRooms      Average Number of rooms per household
+        - AveBedrms     Average Number of bedrooms per household
+        - Population    Block group population
+        - AveOccup      Average number of household members
+        - Latitude      Block group latitude
+        - Longitude     Block group longitude
